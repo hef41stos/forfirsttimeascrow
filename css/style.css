@@ -56,7 +56,7 @@ body {
 .wrapper {
     box-sizing: border-box;
     width: 640px;
-    margin: 0 auto;
+    margin: 40 auto;
     text-align: center;
 }
 
@@ -93,7 +93,7 @@ h1 {
 
 h2 {
     font-size: 31px;
-    margin-top: 70px;
+    margin-top: 20px;
     margin: 50px 0 30px;
 }
 
@@ -213,7 +213,7 @@ a {
 }
 
 .footer {
-    margin: 100px 10px 20px;
+    margin: 140px 10px 20px;
 }
 
 .footer p {
