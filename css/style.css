@@ -56,7 +56,6 @@ body {
 .wrapper {
     box-sizing: border-box;
     width: 640px;
-    margin-top: 100px;
     margin: 0 auto;
     text-align: center;
 }
@@ -114,7 +113,7 @@ a {
 @media only screen and (max-width: 768px) {
     .wrapper {
         width: 100%;
-        padding: 0 20px;
+        padding: 0 60px;
     }
     .timer {
         font-size: 35px;
